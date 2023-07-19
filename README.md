@@ -19,3 +19,7 @@ Markup : - [ ] Categories
         - [ ] Buy Again
         - [ ] CMS
         - [ ] Many more...
+
+
+ Markup : - [ ] An uncompleted task
+          - [x] A completed task
