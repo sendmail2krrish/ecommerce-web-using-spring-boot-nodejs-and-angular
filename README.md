@@ -1,7 +1,7 @@
 # An e-commerce website using Java, Spring Boot, Node.js, and Angular
 
 Backend | Frontend
-| :--- | :--- | :---
+| :--- | :---
 Java          | Node.js
 Spring Boot   | Angular
 MySQL         | TypeScript
