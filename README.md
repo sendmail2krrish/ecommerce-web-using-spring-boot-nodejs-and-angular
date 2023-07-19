@@ -7,7 +7,7 @@ Spring Boot   | Angular
 MySQL         | TypeScript
 
 ## Features
-Markup: - [ ] Categories
+Markup : - [ ] Categories
         - [ ] Products List
         - [ ] Product View
         - [ ] Product Search
