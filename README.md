@@ -7,19 +7,15 @@ Spring Boot   | Angular
 MySQL         | TypeScript
 
 ## Features
-Markup : - [ ] Categories
-        - [ ] Products List
-        - [ ] Product View
-        - [ ] Product Search
-        - [ ] Similar Products
-        - [ ] Cart
-        - [ ] Checkout
-        - [ ] My Orders
-        - [ ] Cancel Order
-        - [ ] Buy Again
-        - [ ] CMS
-        - [ ] Many more...
-
-
- Markup : - [ ] An uncompleted task
-          - [x] A completed task
+- [ ] Categories
+- [ ] Products List
+- [ ] Product View
+- [ ] Product Search
+- [ ] Similar Products
+- [ ] Cart
+- [ ] Checkout
+- [ ] My Orders
+- [ ] Cancel Order
+- [ ] Buy Again
+- [ ] CMS
+- [ ] Many more...
